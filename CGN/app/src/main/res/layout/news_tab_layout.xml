@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:background="@drawable/navigation_bar"
+        android:orientation="horizontal"
+    android:id="@+id/tabs_layout"
+    >
+        <ImageView
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:src="@drawable/left_arrow"
+            android:padding="2dp"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            />
+        <HorizontalScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:layout_weight="1"
+            android:visibility="visible"
+            android:scrollbars="none">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                >
+                <Button
+                    android:id="@+id/tab1_btn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="7CPC"
+                    android:background="@drawable/btn_common_selector"/>
+
+                <Button
+                    android:id="@+id/tab2_btn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="DOPT"
+                    android:background="@drawable/btn_common_selector"/>
+
+                <Button
+                    android:id="@+id/tab3_btn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="EXPECTED DA"
+                    android:background="@drawable/btn_common_selector"/>
+
+                <Button
+                    android:id="@+id/tab4_btn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="TAB 4"
+                    android:background="@drawable/btn_common_selector"/>
+                <Button
+                    android:id="@+id/tab5_btn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="TAB 5"
+                    android:background="@drawable/btn_common_selector"/>
+
+            </LinearLayout>
+        </HorizontalScrollView>
+        <ImageView
+            android:layout_weight="1"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:src="@drawable/right_arrow"
+            android:padding="2dp"
+            android:layout_marginRight="10dp"
+            />
+</LinearLayout>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--COMMON-->
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="yellow">#FFBB33</color>
+    <color name="toolbar_bg_blue">#303d5a</color>
+    <color name="gray_light">#D8D8D8</color>
+    <color name="gray_dark">#AAA4A4A4</color>
+    <color name="gray_background">#757575</color>
+    <color name="light_background">#17757575</color>
+    <color name="swipe_to_refresh">#4285f4</color>
+    <color name="scheduled_green_color">#66B132</color>
+
+    <!--TITLE-->
+    <color name="TITLE_primaryColor">#2196F3</color>
+    <color name="TITLE_primaryColorDark">#0D47A1</color>
+
+    <!--DASHBOARD-->
+    <color name="DASHBOARD_item_divider">#585858</color>
+    <color name="DASHBOARD_grab_button_color">#0080FF</color>
+    <color name="DASHBOARD_inprogress_txt_color">#00c132</color>
+
+    <!--TOUR-->
+    <color name="TOUR_circle_indicator_stroke_color">#FFFFFFFF</color>
+    <color name="TOUR_circle_indicator_fill_color">#FFFFFFFF</color>
+    <color name="TOUR_circle_indicator_page_color">#00000000</color>
+
+
+    <!--SIGNUP-->
+    <color name="text_color">#404040</color>
+    <color name="text_color_light">#808080</color>
+    <color name="text_blue_color">#0d7aff</color>
+    <color name="menu_bg">#313d5b</color>
+    <color name="ad_color">#949494</color>
+    <color name="text_upcoming_event_red">#de2020</color>
+    <color name="text_red_color">#ed3b3b</color>
+    <color name="text_exp_date_red">#ed2024</color>
+    <color name="text_grey_color">#777777</color>
+    <color name="coupon_red_color">#ff0000</color>
+    <color name="status_bar_blue">#111537</color>
+
+    <!--REDEEM-->
+    <color name="redeem_text_blue">#303d5a</color>
+    <color name="transparent">#00000000</color>
+    <color name="text_red_colour">#fe0000</color>
+    <color name="bg_menu_drawer">#313d5b</color>
+
+    <!--COACH MARK-->
+    <color name="CM_txt_color">#ecf3ff</color>
+    <color name="CM_title_color">#fefffe</color>
+    <color name="CM_des_color">#b7deff</color>
+
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--DASHBOARD-->
+    <string-array name="Nav_item_names">
+        <item>News</item>
+        <item>Archives</item>
+        <item>Share to Friends</item>
+        <item>Rate our App</item>
+    </string-array>
+
+    <array name="Nav_item_Icons">
+        <item>@drawable/news</item>
+        <item>@drawable/archives</item>
+        <item>@drawable/share</item>
+        <item>@drawable/rate</item>
+    </array>
+
+    <array name="Nav_item_BG">
+        <item>@drawable/news_bg</item>
+        <item>@drawable/archives_bg</item>
+        <item>@drawable/share_bg</item>
+        <item>@drawable/rate_bg</item>
+    </array>
+
+</resources>

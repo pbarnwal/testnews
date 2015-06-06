@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CGS</string>
+
+
+    <!--COMMON-->
+    <string name="COMMON_dob">Birthday</string>
+    <string name="COMMON_wallet">Wallet</string>
+
+    <!--FONTS-->
+    <string name="lobster_1_3">Lobster_1.3.otf</string>
+
+    <!--SLIDE DRAWER-->
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+
+
+    <!-- Animation duration (in milliseconds) -->
+    <integer name="config_shortAnimTime">200</integer>
+    <integer name="config_mediumAnimTime">400</integer>
+    <integer name="config_longAnimTime">500</integer>
+
+    <!-- This is an ad unit ID for a test ad. Replace with your own banner ad unit id. -->
+    <string name="banner_ad_unit_id">ca-app-pub-9722812086053255/1187784524</string>
+
+</resources>
